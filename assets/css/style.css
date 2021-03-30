@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 .green{
   color: #14c871;
 }
+
 .btn-green{
   font-family: "Raleway", sans-serif;
   font-weight: 500;
@@ -117,7 +118,6 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
-  background-color: rgb(194, 253, 186);
 }
 
 .navbar ul {
@@ -1175,8 +1175,6 @@ section {
 .breadcrumbs h2 {
   font-size: 36px;
   font-weight: 300;
-  margin-top: 3%;
-  color: #14c871;
 }
 
 .breadcrumbs ol {
