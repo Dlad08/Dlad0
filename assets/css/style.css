@@ -1335,3 +1335,23 @@ section {
     text-align-last: center;
   }
 }
+
+/*--------------------------------------------------------------
+# PhD
+--------------------------------------------------------------*/
+
+.inner-page {
+  text-align: justify;
+  font-size: 15px;
+  color: #555;
+}
+
+.inner-page h1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #16df7e;
+}
+
+.inner-page p {
+  margin-top: -8px;
+}    
